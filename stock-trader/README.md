@@ -1,4 +1,4 @@
-# vue-cli
+# stock-trader
 
 > A Vue.js project
 
